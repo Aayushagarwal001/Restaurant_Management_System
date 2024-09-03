@@ -1,0 +1,10 @@
+Burger,49.0,0
+Pizza,129.0,5
+French Fries,99.0,1
+Coffee,99.0,0
+Hot Dog,89.0,30
+Ice Cream,49.0,80
+Candy Ball,50.0,45
+Soup,99.0,50
+Soup,49.0,50
+Coffee,49.0,40
